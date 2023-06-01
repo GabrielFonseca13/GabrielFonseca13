@@ -10,8 +10,8 @@
 
 ### 💡 Vamos nos conectar
 <div style="display: inline_block, margin: 10px">
-  <a href="https://www.linkedin.com/in/karoline-kohls-stangherlin-dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin Karol" target="_blank"/>
+  <a href="https://www.linkedin.com/in/gabriel-fonseca-tech/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin Gabriel" target="_blank"/>
   </a>
   <a href="https://www.instagram.com/gabrielfonseca.13/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
