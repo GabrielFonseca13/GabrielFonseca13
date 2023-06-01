@@ -1,12 +1,22 @@
-## Hello, I'm Gabriel Fonseca
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06C000&height=120&section=header"/>
 
-### Welcome to my GitHub Profile
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=194B18&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Gabriel+Fonseca;I'm+30+years+old;I'm+from+Brazil;BackEnd+Developer;Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
+## Hi There, I'm Gabriel Fonseca 😜
 
 ### 😁 About me 
  - 🎯 Apaixonado por Tecnologia, Esportes e Viagem.
  - 👨🏻‍💻 Desenvolvedor Web Back End Formado na <a href="https://www.betrybe.com/">Trybe</a>
  - 📍 Belo Horizonte, Minas Gerais, Brasil!
- - 🚀 Impulsionado por novos desafios
+ - 🚀 O Desafio me move !!!
+
+##
+
+### 📊 Atividade no GitHub
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielFonseca13&bg_color=242F24&color=5BE05B&line=D6ECD4&point=15FF00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- ### GITHUB STATS -->
+##
 
 ### 💡 Vamos nos conectar
 <div style="display: inline_block, margin: 10px">
@@ -22,41 +32,8 @@
   </a>
 </div>
 
-<!-- ##
-
-### 📊 Atividade no GitHub
-<div style="display: inline_block,">
-<a href="https://github.com/gabrielFonseca13/">
-  <img height='180em' src="https://github-readme-stats.vercel.app/api?username=KarolineKS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatistica GitHub Gabriel" />
-</a>
-<a href="https://github.com/KarolineKS">
-  <img height='180em'src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFonseca13&theme=dracula" alt="Linguagens GitHub Gabriel" />
-</a>
-</div>
-
 ##
 
-### 🔧 Tecnologias e Ferramentas
+<!-- ### 🔧 Tecnologias e Ferramentas -->
 
-<div style="display: inline_block, margin: 10px"><br>
-  <img style="width: 60" alt="Karol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img  alt="Karol-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img  alt="Karol-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img  alt="Karol-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="Karol-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img  alt="Karol-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img  alt="Karol-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img  alt="Karol-Jest" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-  <img  alt="Karol-Tailwindcss" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"/>
-  <img alt="Karol-Bootstrap" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img  alt="Karol-NodeJs" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img  alt="Karol-MySQL" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-  <img  alt="Karol-Redux" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  <img  alt="Karol-npm" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-  <img  alt="Karol-RTL" height="30" width="40" src="https://testing-library.com/img/octopus-64x64.png">
-</div>
-
-##
- -->
-![snake gif](https://github.com/KarolineKS/KarolineKS/blob/output/github-contribution-grid-snake.svg)
-##
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06C000&height=120&section=footer"/>
