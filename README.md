@@ -38,10 +38,10 @@
 <!-- ### GITHUB STATS
 <div style="display: inline_block,">
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielFonseca13&show_icons=true&theme=radical&title_color=5BE05B&text_color=5BE05B&bg_color=242F24&icon_color=D6ECD4)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielFonseca13&show_icons=true&theme=radical&title_color=5BE05B&text_color=5BE05B&bg_color=242F24&icon_color=D6ECD4) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFonseca13&layout=compact&title_color=5BE05B&text_color=5BE05B&bg_color=242F24&icon_color=D6ECD4)](https://github.com/anuraghazra/github-readme-stats)
- -->
+ 
 ## 🛠️ Frameworks and Technologies
 #### Core
  
