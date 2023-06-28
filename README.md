@@ -1,11 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=06C000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=194B18&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Gabriel+Fonseca;I'm+30+years+old;I'm+from+Brazil;BackEnd+Developer;Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=194B18&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Gabriel+Fonseca;I'm+30+years+old;I'm+from+Brazil;Web+Developer;Welcome+to+my+profile!+:%29)](https://git.io/typing-svg)
 ## Hi There, I'm Gabriel Fonseca 😜
 
 ### 😁 About me 
  - 🎯 Apaixonado por Tecnologia, Esportes e Viagem.
- - 👨🏻‍💻 Desenvolvedor Web Back End Formado na <a href="https://www.betrybe.com/">Trybe</a>
+ - 👨🏻‍💻 Desenvolvedor Web Formado na <a href="https://www.betrybe.com/">Trybe</a>
  - 📍 Belo Horizonte, Minas Gerais, Brasil!
  - 🚀 O Desafio me move !!!
 
