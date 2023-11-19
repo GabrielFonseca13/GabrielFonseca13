@@ -32,10 +32,10 @@
 ##
 
 ### 📊 Atividade no GitHub
-
+<!--
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GabrielFonseca13&bg_color=242F24&color=5BE05B&line=D6ECD4&point=15FF00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!-- ### GITHUB STATS
+### GITHUB STATS
 <div style="display: inline_block,">
 
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielFonseca13&show_icons=true&theme=radical&title_color=5BE05B&text_color=5BE05B&bg_color=242F24&icon_color=D6ECD4) -->
