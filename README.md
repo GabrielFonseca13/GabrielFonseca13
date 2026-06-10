@@ -5,7 +5,7 @@
 
 ### 😁 About me 
  - 🎯 Apaixonado por Tecnologia, Esportes e Viagem.
- - 👨🏻‍💻 Desenvolvedor Web Formado na <a href="https://www.betrybe.com/">Trybe</a>
+ - 👨🏻‍💻 Desenvolvedor Web Full Stack
  - 📍 Belo Horizonte, Minas Gerais, Brasil!
  - 🚀 O Desafio me move !!!
 
