@@ -10,11 +10,13 @@
   <a href="https://github.com/GabrielFonseca13?tab=repositories"><img src="https://img.shields.io/badge/GitHub-202833?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
-## 👋 Sobre mim
+### 👋 Sobre mim
 
-Minha trajetória em desenvolvimento de software começou em 2022, com a formação Full Stack pela Trybe. Atuo profissionalmente desde julho de 2023 em sistemas corporativos, APIs REST e SOAP, integrações entre aplicações, interfaces web, painéis administrativos e bancos de dados. Participo da implementação, implantação e sustentação de soluções em produção.
+Sou Desenvolvedor de Software desde 2022, com experiência na criação, evolução e sustentação de sistemas corporativos.
 
-Utilizo diferentes tecnologias conforme as necessidades de cada projeto.
+Atuo no desenvolvimento de APIs, integrações entre sistemas, interfaces web e soluções que automatizam processos e resolvem problemas reais. Trabalho com JavaScript, Oracle SQL e PL/SQL, participando de diferentes etapas do desenvolvimento, da análise à implantação em produção.
+
+Tenho uma visão prática do desenvolvimento de software, combinando conhecimento técnico, entendimento das necessidades do negócio e aprendizado contínuo.
 
 ## 🛠️ Tecnologias
 
